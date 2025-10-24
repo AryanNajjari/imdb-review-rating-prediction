@@ -33,3 +33,5 @@ Generating predicted ratings
 📈 Results
 
 Over 60% of the test data points were predicted with exact accuracy or within ±1 of the actual rating, approximately 12% showed a ±2-point deviation, and about 28% differed by more than 2 points from the actual ratings.
+
+Source of the Data: https://www.kaggle.com/datasets/nisargchodavadiya/imdb-movie-reviews-with-ratings-50k 
